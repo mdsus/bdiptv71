@@ -166,8 +166,6 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 #EXTINF:-1 tvg-name="****************** �STERREICH ************" tvg-id="" group-title="" tvg-logo="",****************** �STERREICH ************
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30dadQJ.png" group-title="REGIONAL",A1 Now
-https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNiWKvL.png" group-title="�STERREICH;MUSIK",Brandnite TV
 https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="�STERREICH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
